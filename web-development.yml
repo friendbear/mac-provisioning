@@ -29,6 +29,21 @@
       - ansible
       - git
       - git-flow
+      - libyaml
+      - brew-pip
+      - mycli
+      - cscope
+      - ctags
+      - gdbm
+      - pcre
+      - mackup
+      - nmap
+      - readline
+      - sbt
+      - readline
+      - the_silver_searcher
+      - tig
+      - tmux
       - heroku-toolbelt
       - peco
       - nvm
@@ -56,11 +71,12 @@
       - firefox-ja
       - flash
       - google-chrome
-      - google-japanese-ime
+        #- google-japanese-ime
       - iterm2
-      - java6
+      - java
+      - sourcetree
       - karabiner
-      - phpstorm
+      - intellij
       - rubymine
       - slack
       - sublime-text
