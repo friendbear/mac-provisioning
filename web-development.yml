@@ -83,3 +83,5 @@
       - sublime-text
       - vagrant
       - virtualbox
+      - omnidisksweeper
+      - dockertoolbox
