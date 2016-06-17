@@ -74,9 +74,10 @@
         #- google-japanese-ime
       - iterm2
       - java
+      _ sequel-pro
       - sourcetree
       - karabiner
-      - intellij
+      - intellij-idea-ce
       - rubymine
       - slack
       - sublime-text
