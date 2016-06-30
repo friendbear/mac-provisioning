@@ -74,14 +74,15 @@
         #- google-japanese-ime
       - iterm2
       - java
+        #- java7
       _ sequel-pro
       - sourcetree
       - karabiner
       - intellij-idea-ce
-      - rubymine
+        #- rubymine
       - slack
       - sublime-text
       - vagrant
       - virtualbox
       - omnidisksweeper
-      - dockertoolbox
+        #- dockertoolbox
